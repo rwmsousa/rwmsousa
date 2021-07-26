@@ -2,10 +2,6 @@ Olá! :)
 ￼
  Me chamo Ricardo e moro em Curitiba/PR, Brasil. Atualmente estou realizando meus estudos na [Trybe](https://www.betrybe.com/) para me tornar um **Desenvolvedor Front-end** 
 ￼
- Desenvolvedor Front-end;
-￼
- Estudando **Javascript** e **Python**;
-￼
  Para entrar em contato comigo, por favor, envie um email para `rwmsousa@gmail.com`;
 ￼
  Dê uma olhada no meu [Portfólio](https://www.ricardosousadev.com.br);
