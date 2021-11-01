@@ -9,7 +9,7 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
   <img align="center" height="180em" width="48%" margin="3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-sousa-dev&layout=compact&langs_count=20&theme=dracula" alt="ricardo-sousa-dev" />
 </a>
 </div>
-<br />
+</br></br></br>
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
