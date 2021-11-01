@@ -3,13 +3,12 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 
 <div align="center" margin-bottom="40px" width="100%>
   <a href="https://github.com/ricardo-sousa-dev">
-  <img align="center" height="180em" width="45%" margin="3px" src="https://github-readme-stats.vercel.app/api?username=ricardo-sousa-dev&show_icons=tru&theme=dracula&include_all_commits=true&count_private=true" alt="ricardo-sousa-dev" />
+  <img align="center" height="180em" width="50%" margin="3px" src="https://github-readme-stats.vercel.app/api?username=ricardo-sousa-dev&show_icons=tru&theme=dracula&include_all_commits=true&count_private=true" alt="ricardo-sousa-dev" />
 </a>
 <a href="https://github.com/ricardo-sousa-dev">
-  <img align="center" height="180em" width="45%" margin="3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-sousa-dev&layout=compact&langs_count=20&theme=dracula" alt="ricardo-sousa-dev" />
+  <img align="center" height="180em" width="50%" margin="3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-sousa-dev&layout=compact&langs_count=20&theme=dracula" alt="ricardo-sousa-dev" />
 </a>
 </div>
-
 
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
