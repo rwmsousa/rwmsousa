@@ -1,5 +1,7 @@
 ### Olá! Eu sou Ricardo Sousa :) &nbsp;
 Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para a área de tecnologia, através da formação na [Trybe](https://www.betrybe.com/) para me tornar um **Desenvolvedor Front-end** e tenho interesse em E-commerce e SEO.
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rwmsousa/)](https://www.linkedin.com/in/rwmsousa/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rwmsousa@gmail.com)](mailto:rwmsousa@gmail.com)
 
@@ -11,7 +13,6 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
   <img align="center" height="180em" width="48%" margin="3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-sousa-dev&layout=compact&langs_count=20&theme=dracula" alt="ricardo-sousa-dev" />
 </a>
 </div>
-<div></br> </div>
 
 
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
