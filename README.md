@@ -1,7 +1,7 @@
 ### Olá! Eu sou Ricardo Sousa :) &nbsp;
 Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para a área de tecnologia, através da formação na [Trybe](https://www.betrybe.com/) para me tornar um **Desenvolvedor Front-end** e tenho interesse em E-commerce e SEO.
 
-<div align="start" margin-bottom="20px">
+<div align="start" margin-bottom="40px">
   <a href="https://github.com/ricardo-sousa-dev">
   <img align="center" height="180em" width="45%" margin="3px" src="https://github-readme-stats.vercel.app/api?username=ricardo-sousa-dev&show_icons=tru&theme=dracula&include_all_commits=true&count_private=true" alt="ricardo-sousa-dev" />
 </a>
