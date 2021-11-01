@@ -14,7 +14,7 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 </a>
 </div>
 
-
+<div><br/></div>
 
 
 
