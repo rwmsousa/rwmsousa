@@ -31,4 +31,4 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 
 ![Snake animation](https://github.com/ricardo-sousa-dev/ricardo-sousa-dev/blob/output/github-contribution-grid-snake.svg)
 
-<div width="100%" height="0" padding-bottom="89%" position="relative"><iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="100%" height="100%" position="absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif
