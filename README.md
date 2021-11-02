@@ -48,7 +48,7 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
                                                                                                                                                 * * *
 
 <div align="center">
- <a href="https://wakatime.com/@ricardo-sousa-dev">
+ <a href="https://wakatime.com/@ricardosousa">
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ricardo-sousa-dev&theme=gruvbox&layout=compact"/>
 </a>
   <img align="center" width="400px" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
