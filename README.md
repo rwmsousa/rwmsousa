@@ -32,9 +32,17 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 * * *
 
                                                                                                                                                       
-                                                                                                                                                      <!--START_SECTION:waka-->
-                                                                                                                  
-<!--END_SECTION:waka-->
+
+<div align="center">
+<a href="https://wakatime.com/@lcds90">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds90&langs_count=10&theme=gruvbox&layout=compact&include_all_commits=true" width="400px"/>
+</a>
+<a href="https://wakatime.com/@lcds90">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=lcds90&count_private=true&theme=gruvbox"/>
+</a>
+</div>
+
+* * *
                                                                                                                                                       
                                                                                                                                                       
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
