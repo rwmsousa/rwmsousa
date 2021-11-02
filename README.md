@@ -22,41 +22,23 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
                                                                                                                                          
 
 
-<img align="center" height="200em" width="55%" margin="3px" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
-<img align="center" height="180em" width="30%" margin="3px" alt="GIF" src="https://equilibrium.co.ke/sensitive/wp-content/uploads/2020/08/WEB-DEV.gif" />
-</div>
+<img align="center" height="200em" width="48%" margin="3px" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
+
+<img align="center" height="200em" width="48%" margin="3px" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-sousa-dev&theme=dark"/>
+
 
       
                                                                                                                                                       
 * * *
 
-                                                                                                                                                      
 
-<div align="center">
-<a href="https://wakatime.com/@ricardo-sousa-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-sousa-dev&langs_count=10&theme=gruvbox&layout=compact&include_all_commits=true" width="400px"/>
-</a>
-<a href="https://wakatime.com/@ricardo-sousa-dev">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=ricardo-sousa-dev&count_private=true&theme=gruvbox"/>
-</a>
+<img align="center" height="180em" width="30%" margin="3px" alt="GIF" src="https://equilibrium.co.ke/sensitive/wp-content/uploads/2020/08/WEB-DEV.gif" />
+
+                                                                                                                                                      
 </div>
 
-                                                                                                                                                
-                                                                                                                                                
-* * *
-                                                                                                                                                
-                                                                                                                                                * * *
 
-<div align="center">
- <a href="https://wakatime.com/@ricardosousa">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ricardo-sousa-dev&theme=gruvbox&layout=compact"/>
-</a>
-  <img align="center" width="400px" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
-
-                                                                                                                                
-                                                                                                                                
-* * *
-                                                                                                                                                      
+                                                                                                                                           
                                                                                                                                                       
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
