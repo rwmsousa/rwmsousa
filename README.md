@@ -33,5 +33,3 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
 ![Snake animation](https://github.com/ricardo-sousa-dev/ricardo-sousa-dev/blob/output/github-contribution-grid-snake.svg)
-
-https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif
