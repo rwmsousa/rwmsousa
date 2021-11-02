@@ -17,15 +17,27 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 * * *
 
 
-<img align="center" height="200em" width="55%" margin="3px" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
-<img align="center" height="180em" width="30%" margin="3px" alt="GIF" src="https://equilibrium.co.ke/sensitive/wp-content/uploads/2020/08/WEB-DEV.gif" />
-</div>
+![Snake animation](https://github.com/ricardo-sousa-dev/ricardo-sousa-dev/blob/output/github-contribution-grid-snake.svg)
                                                                                                                                   
 
 * * *
                                                                                                                                          
-                                                                                                                                         
 
+
+<img align="center" height="200em" width="55%" margin="3px" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
+<img align="center" height="180em" width="30%" margin="3px" alt="GIF" src="https://equilibrium.co.ke/sensitive/wp-content/uploads/2020/08/WEB-DEV.gif" />
+</div>
+
+      
+                                                                                                                                                      
+* * *
+
+                                                                                                                                                      
+                                                                                                                                                      <!--START_SECTION:waka-->
+                                                                                                                  
+<!--END_SECTION:waka-->
+                                                                                                                                                      
+                                                                                                                                                      
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -39,11 +51,4 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-
-                                                                                                                                
-![Snake animation](https://github.com/ricardo-sousa-dev/ricardo-sousa-dev/blob/output/github-contribution-grid-snake.svg)
-                                                                                                                  
-
-<!--START_SECTION:waka-->
-                                                                                                                  
-<!--END_SECTION:waka-->
+                                                    
