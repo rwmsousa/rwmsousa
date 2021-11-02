@@ -32,16 +32,17 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
-![Snake animation](https://github.com/ricardo-sousa-dev/ricardo-sousa-dev/blob/output/github-contribution-grid-snake.svg)
-                                                                                                                  
+                                                                                                                 
 <div align="center">
  <a href="https://wakatime.com/@lcds90">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=gruvbox&layout=compact"/>
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ricardo-sousa-dev&theme=gruvbox&layout=compact"/>
 </a>
-  <img align="center" width="400px" src="https://github-profile-trophy.vercel.app/?username=lcds90&row=2&column=3&theme=gruvbox"/>
+  <img align="center" width="400px" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
 
 * * *
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lcds90&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ricardo-sousa-dev&theme=dark)](https://git.io/streak-stats)
 
 </div>
+                                                                                                                                
+![Snake animation](https://github.com/ricardo-sousa-dev/ricardo-sousa-dev/blob/output/github-contribution-grid-snake.svg)
