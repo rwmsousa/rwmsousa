@@ -7,18 +7,18 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 
 <div align="center" margin-bottom="40px" width="100%>
   <a href="https://github.com/ricardo-sousa-dev">
-  <img align="center" height="200em" width="48%" margin="3px" src="https://github-readme-stats.vercel.app/api?username=ricardo-sousa-dev&show_icons=tru&theme=dracula&include_all_commits=true&count_private=true" alt="ricardo-sousa-dev" />
+  <img align="center" height="180em" width="48%" margin="3px" src="https://github-readme-stats.vercel.app/api?username=ricardo-sousa-dev&show_icons=tru&theme=dracula&include_all_commits=true&count_private=true" alt="ricardo-sousa-dev" />
 </a>
 <a href="https://github.com/ricardo-sousa-dev">
-  <img align="center" height="150em" width="48%" margin="3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-sousa-dev&layout=compact&langs_count=20&theme=dracula" alt="ricardo-sousa-dev" />
+  <img align="center" height="180em" width="48%" margin="3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-sousa-dev&layout=compact&langs_count=20&theme=dracula" alt="ricardo-sousa-dev" />
 </a>
 
 
 * * *
 
 
-<img align="center" height="180em" width="48%" margin="3px" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
-<img align="center" height="180em" width="48%" margin="3px" alt="GIF" src="https://equilibrium.co.ke/sensitive/wp-content/uploads/2020/08/WEB-DEV.gif" />
+<img align="center" height="200em" width="55%" margin="3px" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
+<img align="center" height="180em" width="38%" margin="3px" alt="GIF" src="https://equilibrium.co.ke/sensitive/wp-content/uploads/2020/08/WEB-DEV.gif" />
 </div>
                                                                                                                                   
 
