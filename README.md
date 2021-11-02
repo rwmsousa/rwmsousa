@@ -14,8 +14,8 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 </a>
 
 
-<img align="center" width="400px" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
-<img align="right" height="270px" alt="GIF" src="https://equilibrium.co.ke/sensitive/wp-content/uploads/2020/08/WEB-DEV.gif" />
+<img align="center" width="48%" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
+<img align="center" width="48%" height="270px" alt="GIF" src="https://equilibrium.co.ke/sensitive/wp-content/uploads/2020/08/WEB-DEV.gif" />
 </div>
 
 <div><br/></div>
