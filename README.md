@@ -1,5 +1,4 @@
-### Olá! Eu sou Ricardo Sousa :) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rwmsousa/)](https://www.linkedin.com/in/rwmsousa/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rwmsousa@gmail.com)](mailto:rwmsousa@gmail.com) &nbsp;
+### Olá! Eu sou Ricardo Sousa :) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rwmsousa/)](https://www.linkedin.com/in/rwmsousa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rwmsousa@gmail.com)](mailto:rwmsousa@gmail.com) &nbsp;
 
 Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para a área de tecnologia, através da formação na [Trybe](https://www.betrybe.com/) para me tornar um **Desenvolvedor Front-end** e tenho interesse em E-commerce e SEO.
 
@@ -34,11 +33,11 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
                                                                                                                                                       
 
 <div align="center">
-<a href="https://wakatime.com/@lcds90">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds90&langs_count=10&theme=gruvbox&layout=compact&include_all_commits=true" width="400px"/>
+<a href="https://wakatime.com/@ricardo-sousa-dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-sousa-dev&langs_count=10&theme=gruvbox&layout=compact&include_all_commits=true" width="400px"/>
 </a>
-<a href="https://wakatime.com/@lcds90">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=lcds90&count_private=true&theme=gruvbox"/>
+<a href="https://wakatime.com/@ricardo-sousa-dev">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=ricardo-sousa-dev&count_private=true&theme=gruvbox"/>
 </a>
 </div>
 
