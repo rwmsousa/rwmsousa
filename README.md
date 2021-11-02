@@ -35,8 +35,8 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
                                                                                                                  
 <div align="center">
 <img align="center" width="400px" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ricardo-sousa-dev&theme=dark)](https://git.io/streak-stats)
 </div>
+                                                                                                                                         
 * * *
                                                                                                                                 
 ![Snake animation](https://github.com/ricardo-sousa-dev/ricardo-sousa-dev/blob/output/github-contribution-grid-snake.svg)
