@@ -33,3 +33,15 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
 ![Snake animation](https://github.com/ricardo-sousa-dev/ricardo-sousa-dev/blob/output/github-contribution-grid-snake.svg)
+                                                                                                                  
+<div align="center">
+ <a href="https://wakatime.com/@lcds90">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds90&theme=gruvbox&layout=compact"/>
+</a>
+  <img align="center" width="400px" src="https://github-profile-trophy.vercel.app/?username=lcds90&row=2&column=3&theme=gruvbox"/>
+
+* * *
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lcds90&theme=dark)](https://git.io/streak-stats)
+
+</div>
