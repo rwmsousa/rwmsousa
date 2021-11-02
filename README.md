@@ -13,6 +13,7 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
   <img align="center" height="180em" width="48%" margin="3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-sousa-dev&layout=compact&langs_count=20&theme=dracula" alt="ricardo-sousa-dev" />
 </a>
 <img align="center" width="400px" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
+![Happy Code](https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif)
 </div>
 
 <div><br/></div>
