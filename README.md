@@ -42,3 +42,8 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 
                                                                                                                                 
 ![Snake animation](https://github.com/ricardo-sousa-dev/ricardo-sousa-dev/blob/output/github-contribution-grid-snake.svg)
+                                                                                                                  
+
+<!--START_SECTION:waka-->
+                                                                                                                  
+<!--END_SECTION:waka-->
