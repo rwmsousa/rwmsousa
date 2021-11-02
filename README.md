@@ -29,6 +29,10 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
 ![Snake animation](https://github.com/ricardo-sousa-dev/ricardo-sousa-dev/blob/output/github-contribution-grid-snake.svg)
 
