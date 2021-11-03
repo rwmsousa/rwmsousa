@@ -134,7 +134,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/lcds90/lcds90/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/ricardo-sousa-dev/ricardo-sousa-dev/main/charts/bar_graph.png) 
 
 
  Last Updated on 01/11/2021
