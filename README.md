@@ -51,11 +51,12 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 * * *
 
 
-<details>
-       <summary>Wakatime and Github Stats Details</summary>
-       <div align="justify">
-              
+<div align="justify">
+
+<summary>Wakatime and Github Stats Details</summary>
+
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 **🐱 My GitHub Data** 
@@ -142,7 +143,7 @@ PHP                      5 repos             █░░░░░░░░░░�
               
               
    </div>
-</details>
+
 
 <img align="center" height="180em" width="30%" margin="3px" alt="GIF" src="https://equilibrium.co.ke/sensitive/wp-content/uploads/2020/08/WEB-DEV.gif" />
 
