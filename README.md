@@ -1,4 +1,6 @@
-### Olá! Eu sou Ricardo Sousa :smiley:      [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rwmsousa/)](https://www.linkedin.com/in/rwmsousa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rwmsousa@gmail.com)](mailto:rwmsousa@gmail.com) &nbsp;
+### Olá! Eu sou Ricardo Sousa :smiley:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rwmsousa/)](https://www.linkedin.com/in/rwmsousa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rwmsousa@gmail.com)](mailto:rwmsousa@gmail.com) &nbsp;
 
 Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para a área de tecnologia, através da formação na [Trybe](https://www.betrybe.com/) para me tornar um **Desenvolvedor Front-end** e tenho interesse em E-commerce e SEO.
 
