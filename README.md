@@ -51,9 +51,9 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 * * *
 
 
-<!--START_SECTION:main-->
+<!--START_SECTION:waka-->
 
-<!--END_SECTION:main-->
+<!--END_SECTION:waka-->
               
 
 
