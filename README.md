@@ -2,7 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rwmsousa/)](https://www.linkedin.com/in/rwmsousa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rwmsousa@gmail.com)](mailto:rwmsousa@gmail.com) &nbsp;
 
-Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para a área de tecnologia, através da formação na [Trybe](https://www.betrybe.com/) para me tornar um **Desenvolvedor Front-end** e tenho interesse em E-commerce e SEO.
+Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para a área de tecnologia, através da formação na [Trybe](https://www.betrybe.com/) para me tornar um **Desenvolvedor Front-end** e tenho interesse em e-commerce e SEO. 
+
+Atualmente, estou desenvolvendo um e-commerce com todas as habilidades e conhecimentos que tenho adquirido. Acesse a aplicação em produção: <a href="https://www.singelee.com.br">Singelee</a>.
 
 
 * * *
@@ -53,12 +55,22 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
 * * *
 
                                                 
-<img align="center" height="250em" width="38%" margin="6px" src="https://wakatime.com/share/@ricardosousa/e673d767-3034-4805-b42d-fb10043057cb.svg" />
-<img align="center" height="250em" width="38%" margin="6px" src="https://wakatime.com/share/@ricardosousa/4368570b-cd87-4a95-9cd9-b83f7f1fbea0.svg" />
+<img align="center" height="350em" width="45%" margin="6px" src="https://wakatime.com/share/@ricardosousa/e673d767-3034-4805-b42d-fb10043057cb.svg" />
+<img align="center" height="350em" width="45%" margin="6px" src="https://wakatime.com/share/@ricardosousa/4368570b-cd87-4a95-9cd9-b83f7f1fbea0.svg" />
 
- <div align="center" margin-bottom="40px" width="100%>   
+
+* * *
+
+
+
+ <summary>Wakatime and Github Stats Details</summary>
+ 
+ <div align="left" margin-bottom="40px" width="100%>   
+  
 <!--START_SECTION:waka-->
-
+  
+![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
+  
 **🐱 My GitHub Data** 
 
 > 🏆 1,152 Contributions in the Year 2021
