@@ -52,11 +52,12 @@ Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para 
                                                                                                                                                       
 * * *
 
+                                                
+<img align="center" height="250em" width="38%" margin="6px" src="https://wakatime.com/share/@ricardosousa/e673d767-3034-4805-b42d-fb10043057cb.svg" />
+<img align="center" height="250em" width="38%" margin="6px" src="https://wakatime.com/share/@ricardosousa/4368570b-cd87-4a95-9cd9-b83f7f1fbea0.svg" />
 
+ <div align="center" margin-bottom="40px" width="100%>   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-314-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -126,20 +127,12 @@ HTML                     1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ricardo-sousa-dev/ricardo-sousa-dev/master/charts/bar_graph.png) 
-
-
  Last Updated on 05/11/2021
 <!--END_SECTION:waka-->
               
+  </div>
 
 
 
-<img align="center" height="180em" width="30%" margin="3px" alt="GIF" src="https://equilibrium.co.ke/sensitive/wp-content/uploads/2020/08/WEB-DEV.gif" />
-
-
-<figure><embed src="https://wakatime.com/share/@ricardosousa/57dbe508-8e32-4fe5-a5bc-00fe18c628c2.svg"></embed></figure>
                                                                                                                                                       
 </div>
