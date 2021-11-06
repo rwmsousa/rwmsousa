@@ -139,5 +139,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 <img align="center" height="180em" width="30%" margin="3px" alt="GIF" src="https://equilibrium.co.ke/sensitive/wp-content/uploads/2020/08/WEB-DEV.gif" />
 
+
+<figure><embed src="https://wakatime.com/share/@ricardosousa/57dbe508-8e32-4fe5-a5bc-00fe18c628c2.svg"></embed></figure>
                                                                                                                                                       
 </div>
