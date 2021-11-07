@@ -41,17 +41,16 @@ Atualmente, estou desenvolvendo um e-commerce com todas as habilidades e conheci
                                                                                                                                   
 
 * * *
-                                                                                                                                         
 
 
 
 <img align="center" height="230em" width="48%" margin="3px" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
 
+
 <img align="center" height="240em" width="48%" margin="3px" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-sousa-dev&theme=dark"/>
 
 
-      
-                                                                                                                                                      
+
 * * *
 
                                                 
