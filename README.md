@@ -67,7 +67,7 @@ Atualmente, estou desenvolvendo um e-commerce com todas as habilidades e conheci
  <div align="left" margin-bottom="40px" width="100%>   
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -114,18 +114,18 @@ Sunday       77 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JSX                      13 hrs 52 mins      █████████████████░░░░░░░░   68.0% 
-CSS                      5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.77% 
-JavaScript               39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24%
+JSX                      16 hrs 25 mins      █████████████████░░░░░░░░   70.43% 
+CSS                      6 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   26.61% 
+JavaScript               41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96%
 
 🔥 Editors: 
-VS Code                  20 hrs 24 mins      █████████████████████████   100.0%
+VS Code                  23 hrs 19 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-singelee-react           20 hrs 24 mins      █████████████████████████   100.0%
+singelee-react           23 hrs 19 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      20 hrs 24 mins      █████████████████████████   100.0%
+Mac                      23 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
@@ -143,7 +143,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ricardo-sousa-dev/ricardo-sousa-dev/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/12/2021
+ Last Updated on 26/12/2021
 <!--END_SECTION:waka-->
               
   </div>
