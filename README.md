@@ -67,15 +67,15 @@ Atualmente, estou desenvolvendo um e-commerce com todas as habilidades e conheci
  <div align="left" margin-bottom="40px" width="100%>   
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,407 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 785.4 kB Used in GitHub's Storage 
  > 
@@ -114,22 +114,23 @@ Sunday       76 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JSX                      18 hrs 27 mins      ████████████████░░░░░░░░░   67.49% 
-CSS                      8 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.89% 
-JavaScript               42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+JSX                      11 hrs 58 mins      ███████████████░░░░░░░░░░   61.25% 
+CSS                      4 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92% 
+JSON                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
+JavaScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
 🔥 Editors: 
-VS Code                  27 hrs 21 mins      █████████████████████████   100.0%
+VS Code                  19 hrs 33 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-singelee-react           27 hrs 20 mins      █████████████████████████   99.97% 
-_trybe-project-13-fronten0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
-card-payment-sample-node 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+singelee-react           19 hrs 16 mins      ████████████████████████░   98.62% 
+Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95% 
+card-payment-sample-node 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
+_trybe-project-13-fronten0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 💻 Operating System: 
-Mac                      27 hrs 21 mins      █████████████████████████   100.0%
+Mac                      19 hrs 33 mins      █████████████████████████   100.0%
 
 ```
 
@@ -147,7 +148,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ricardo-sousa-dev/ricardo-sousa-dev/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
               
   </div>
