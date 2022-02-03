@@ -67,17 +67,17 @@ Atualmente, estou desenvolvendo um e-commerce com todas as habilidades e conheci
  <div align="left" margin-bottom="40px" width="100%>   
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 158 Contributions in the Year 2022
+> 🏆 159 Contributions in the Year 2022
  > 
-> 📦 800.0 kB Used in GitHub's Storage 
+> 📦 800.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -114,24 +114,24 @@ Sunday       91 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               14 hrs 19 mins      ████████████████░░░░░░░░░   64.12% 
-Bash                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.56% 
-Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
-CSS                      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   4.52%
+JavaScript               12 hrs 8 mins       ███████████████░░░░░░░░░░   62.93% 
+Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   10.52% 
+Bash                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   10.44% 
+JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
+CSS                      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   5.24%
 
 🔥 Editors: 
-VS Code                  22 hrs 20 mins      █████████████████████████   100.0%
+VS Code                  19 hrs 18 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.78% 
-sd-013-c-cookmaster      3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68% 
-sd-013-c-stranger-things-3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
-singelee-react           3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
-sd-013-c-stranger-things-3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.02%
+Unknown Project          8 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.81% 
+singelee-react           3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56% 
+sd-013-c-stranger-things-3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94% 
+_trybe-project-18-recipes2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
+sd-013-c-stranger-things-1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.12%
 
 💻 Operating System: 
-Mac                      22 hrs 20 mins      █████████████████████████   100.0%
+Mac                      19 hrs 18 mins      █████████████████████████   100.0%
 
 ```
 
@@ -149,7 +149,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ricardo-sousa-dev/ricardo-sousa-dev/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/02/2022 18:49:29 UTC
+ Last Updated on 03/02/2022 18:49:58 UTC
 <!--END_SECTION:waka-->
               
   </div>
