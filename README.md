@@ -67,7 +67,7 @@ Atualmente, estou desenvolvendo um e-commerce com todas as habilidades e conheci
  <div align="left" margin-bottom="40px" width="100%>   
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -75,35 +75,35 @@ Atualmente, estou desenvolvendo um e-commerce com todas as habilidades e conheci
 
 **🐱 My GitHub Data** 
 
-> 🏆 260 Contributions in the Year 2022
+> 🏆 283 Contributions in the Year 2022
  > 
-> 📦 804.6 kB Used in GitHub's Storage 
+> 📦 804.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 44 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    192 commits    █████░░░░░░░░░░░░░░░░░░░░   21.17% 
-🌆 Daytime    436 commits    ████████████░░░░░░░░░░░░░   48.07% 
-🌃 Evening    279 commits    ███████░░░░░░░░░░░░░░░░░░   30.76% 
+🌞 Morning    207 commits    █████░░░░░░░░░░░░░░░░░░░░   22.28% 
+🌆 Daytime    443 commits    ████████████░░░░░░░░░░░░░   47.69% 
+🌃 Evening    279 commits    ███████░░░░░░░░░░░░░░░░░░   30.03% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
-Tuesday      256 commits    ███████░░░░░░░░░░░░░░░░░░   28.22% 
-Wednesday    115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
-Thursday     132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-Friday       104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.47% 
-Saturday     56 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
-Sunday       108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.91%
+Monday       136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
+Tuesday      256 commits    ███████░░░░░░░░░░░░░░░░░░   27.56% 
+Wednesday    119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
+Thursday     150 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.15% 
+Friday       104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
+Saturday     56 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.03% 
+Sunday       108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.63%
 
 ```
 
@@ -149,7 +149,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ricardo-sousa-dev/ricardo-sousa-dev/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2022 18:51:39 UTC
+ Last Updated on 17/02/2022 18:50:41 UTC
 <!--END_SECTION:waka-->
               
   </div>
