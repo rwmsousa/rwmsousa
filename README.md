@@ -15,7 +15,7 @@ Atualmente, estou desenvolvendo um e-commerce com todas as habilidades e conheci
   <img align="center" height="160em" width="48%" margin="3px" src="https://github-readme-stats.vercel.app/api?username=ricardo-sousa-dev&show_icons=tru&theme=dracula&include_all_commits=true&count_private=true" alt="ricardo-sousa-dev" />
 </a>
 <a href="https://github.com/ricardo-sousa-dev">
-  <img align="center" height="160em" width="48%" margin="3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-sousa-dev&layout=compact&langs_count=20&theme=dracula" alt="ricardo-sousa-dev" />
+  <img align="center" height="160em" width="48%" margin="3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-sousa-dev&layout=compact&langs_count=20&theme=dracula&count_private=true" alt="ricardo-sousa-dev" />
 </a>
 
 
