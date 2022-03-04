@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rwmsousa/)](https://www.linkedin.com/in/rwmsousa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rwmsousa@gmail.com)](mailto:rwmsousa@gmail.com) &nbsp;
 
-Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para a área de tecnologia, através da formação na [Trybe](https://www.betrybe.com/) para me tornar um **Desenvolvedor Web Full Stack** e tenho interesse em e-commerce e SEO. 
+Moro em Curitiba/PR - Brasil e atualmente estou em transição de carreira para a área de tecnologia, através da formação na [Trybe](https://www.betrybe.com/) para me tornar um **Desenvolvedor Web Full Stack**. 
 
 Atualmente, estou desenvolvendo um e-commerce com todas as habilidades e conhecimentos que tenho adquirido. Acesse a aplicação em produção: <a href="https://www.singelee.com.br">Singelee</a>.
 
@@ -45,7 +45,6 @@ Atualmente, estou desenvolvendo um e-commerce com todas as habilidades e conheci
 
 
 <img align="center" height="230em" width="48%" margin="3px" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
-
 
 <img align="center" height="240em" width="48%" margin="3px" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-sousa-dev&theme=dark"/>
 
