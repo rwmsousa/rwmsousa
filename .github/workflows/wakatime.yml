@@ -13,5 +13,21 @@ jobs:
       - uses: ricardo-sousa-dev/ricardo-sousa-dev@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          #GH utilizado para considerar os códigos de outros repositórios. Configurado com token user
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          #mostra a quantidade de linhas de código
           SHOW_LINES_OF_CODE: "True"
+          #intervalo das estatísticas
+          TIME_RANGE : last_30_days
+          #mensagem personalizada ao realizar a atualização
+          COMMIT_MESSAGE : Update Stats
+          #barra ilustração status
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          #tempo total nas estatísticas
+          SHOW_TOTAL : true
+          #habilitar show_time para false para ocultar o tempo gasto em cada linguagem
+          #SHOW_TIME : false
+          
+          #referência: https://github.com/athul/waka-readme
+          
+          
