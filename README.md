@@ -34,9 +34,9 @@ Atualmente, estou desenvolvendo um e-commerce com todas as habilidades e conheci
 <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <!--- <img alt="React Testing Library" src="https://img.shields.io/badge/-RTL-61DAFB?style=flat-square&logo=react&logoColor=black" /> -->
 <!--- <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" /> -->
-<!--- <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> -->
 <!--- <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> -->
 </div>
 
