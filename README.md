@@ -4,7 +4,7 @@
 
 Moro em Curitiba/PR - Brasil e atualmente sou **Desenvolvedor Web Full Stack**. 
 
-Atualmente, trabalho com sistemas de e-commerce, mas gosto muito de automação assim como toda solução que facilite a vida das pessoas. :)
+Atualmente, trabalho com desenvolvimento web e sistemas de e-commerce, mas gosto muito de automação assim como toda solução que facilite a vida das pessoas. :)
 
 
 * * *
