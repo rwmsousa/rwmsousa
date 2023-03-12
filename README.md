@@ -33,8 +33,8 @@ Sinto-me confortável no Frontend, mas gosto bastante de transitar no Backend. S
 * * *
 
 <div display="flex">
-<img align="center" height="230em" width="48%" margin="3px" src="https://github-profile-trophy.vercel.app/?username=ricardo-sousa-dev&row=2&column=3&theme=gruvbox"/>
-<img align="center" height="240em" width="48%" margin="3px" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-sousa-dev&theme=dark"/>
+<img align="center" height="230em" width="48%" margin="3px" src="https://github-profile-trophy.vercel.app/?username=rwmsousa&row=2&column=3&theme=gruvbox"/>
+<img align="center" height="240em" width="48%" margin="3px" src="https://github-readme-streak-stats.herokuapp.com/?user=rwmsousa&theme=dark"/>
 </div>
 
 * * *
