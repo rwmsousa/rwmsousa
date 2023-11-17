@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rwmsousa/)](https://www.linkedin.com/in/rwmsousa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rwmsousa@gmail.com)](mailto:rwmsousa@gmail.com) &nbsp;
 
-Moro em Curitiba/PR - Brasil e atualmente atuo como **Desenvolvedor Web**. 
+Moro em Curitiba/PR - Brasil e atualmente atuo como **Software Developer**. 
 
 Sinto-me confortável no Frontend, mas gosto bastante de transitar no Backend. Sou um entusiasta de soluções que envolvam automação. :)
 
