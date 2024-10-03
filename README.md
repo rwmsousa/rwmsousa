@@ -1,8 +1,19 @@
-## Olá! Eu sou Ricardo Sousa :smiley:
+Olá! Eu sou o Ricardo Sousa, um desenvolvedor full-stack apaixonado por transformar ideias em soluções digitais inovadoras e acessíveis.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rwmsousa/)](https://www.linkedin.com/in/rwmsousa/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rwmsousa@gmail.com)](mailto:rwmsousa@gmail.com) &nbsp;
+Com mais de 4 anos de experiência em desenvolvimento web, mergulhei no mundo do TypeScript, JavaScript, Next.js, React, Node.js e Python. Adoro criar interfaces intuitivas e funcionais com React, e dar vida à lógica por trás das aplicações com Node.js.
 
-Sou um entusiasta do código especializado em TypeScript, JavaScript, Next.js, React.js, Node.js, API e Python e tenho muito interesse em ter mais contato com Crawler, RPA, Automação, bash e AWS. 😊
+Mas minha paixão vai além do código! Sou fascinado por acessibilidade, garantindo que todos, independentemente de suas habilidades, possam navegar e interagir com as minhas criações. Acredito que a tecnologia deve ser inclusiva e proporcionar experiências positivas para todos.
+
+Também me aventuro no mundo da automação com RPA, buscando otimizar processos e tornar a vida mais fácil. Afinal, quem não gosta de um pouco de mágica tecnológica?
+
+O que me move?
+
+- O desafio de construir soluções que façam a diferença.
+- A busca constante por aprimoramento e novas tecnologias.
+- O trabalho em equipe e a troca de conhecimentos.
+- A satisfação de ver minhas criações ganhando vida e impactando positivamente as pessoas.
+
+Vamos juntos construir algo incrível?
 
 <br><br>
 
