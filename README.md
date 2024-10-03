@@ -12,10 +12,10 @@ I also venture into the world of automation with RPA, seeking to optimize proces
 
 
 What drives me? 
-- The challenge of building solutions that make a difference
-- The constant search for improvement and new technologies
-- Teamwork and knowledge exchange
-- The satisfaction of seeing my creations come to life and positively impacting people
+- The challenge of building solutions that make a difference;
+- The constant search for improvement and new technologies;
+- Teamwork and knowledge exchange;
+- The satisfaction of seeing my creations come to life and positively impacting people;
 
 Let's build something amazing together?
 
