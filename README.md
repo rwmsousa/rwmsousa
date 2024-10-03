@@ -18,7 +18,7 @@ What drives me?
 
 Let's build something amazing together?
 
-<br><br>
+<br>
 
 <div align="center" margin-bottom="40px" width="100% display="flex" justify-content="center">
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
