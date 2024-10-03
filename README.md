@@ -1,4 +1,5 @@
 Hello! 
+
 I'm Ricardo Sousa, a full-stack developer passionate about transforming ideas into innovative and accessible digital solutions. 
 
 With over 4 years of experience in web development, I've immersed myself in the world of TypeScript, JavaScript, Next.js, React, Node.js, and Python. 
