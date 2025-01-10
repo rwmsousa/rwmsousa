@@ -44,11 +44,11 @@ Currently, as a hobby, I have been researching hydroponics and I have become ver
 
 <br><br>
 <div display="flex" width="100%" justify-content="center" align="flex-start" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwmsousa&layout=pie&theme=dracula" />
-  <div display="flex" width="fit-content" >
-    <img src="https://github-profile-trophy.vercel.app/?username=rwmsousa&row=2&column=3&theme=dracula" />
-    <img src="https://github-readme-stats.vercel.app/api?username=rwmsousa&show_icons=true&theme=dracula" width="30%" />
-  </div>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwmsousa&layout=pie&theme=dracula" />
+<!--   <div display="flex" width="30%" flex-direction="column"> -->
+    <img width="30%"  src="https://github-profile-trophy.vercel.app/?username=rwmsousa&row=2&column=3&theme=dracula" />
+    <img width="30%" src="https://github-readme-stats.vercel.app/api?username=rwmsousa&show_icons=true&theme=dracula" width="30%" />
+<!--   </div> -->
 </div>
 
 
