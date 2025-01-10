@@ -21,7 +21,7 @@ Let's build something amazing together?
 
 <br>
 
-<div align="center" margin-bottom="40px" width="100%" display="flex" justifyContent="center">
+<div align="center" margin-bottom="40px" width="100%" display="flex" justify-content="center">
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -49,10 +49,10 @@ Let's build something amazing together?
 
 <br><br>
 
-<div display="flex" width="100%" justifyContent="center">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwmsousa&layout=pie&theme=dracula" />
-    <img align="center"  src="https://github-profile-trophy.vercel.app/?username=rwmsousa&row=2&column=3&theme=dracula"/>
-    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=rwmsousa&show_icons=true&theme=dracula" />
+<div display="flex" width="100%" justify-content="center" align="flex-start" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwmsousa&layout=pie&theme=dracula" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rwmsousa&row=2&column=3&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rwmsousa&show_icons=true&theme=dracula" width="30%" />
 </div>
 
 
