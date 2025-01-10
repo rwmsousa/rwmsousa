@@ -1,31 +1,22 @@
-Hello! 
+# Hello! 👋
 
-I'm Ricardo Sousa, a full-stack developer passionate about transforming ideas into innovative and accessible digital solutions. 
+My name is **Ricardo Sousa**, a full-stack developer passionate about transforming ideas into innovative and accessible digital solutions.
 
-With over 4 years of experience in web development, I've immersed myself in the world of TypeScript, JavaScript, Next.js, React, Node.js, and Python. 
+With over 4 years of experience in web development, I have immersed myself in the world of **TypeScript**, **JavaScript**, **Python**, **Java**. **Node.js**, **Nest.js**, **Next.js**, **React** are frameworks that I have the best performance with, but I am delving deeper into the Java ecosystem.
 
-I love creating intuitive and functional interfaces with React, and bringing the logic behind applications to life with Node.js. But my passion goes beyond code! 
+I love creating intuitive and functional interfaces with Next.js and bringing the logic behind applications to life with Node.js or Nest.js.
 
-I'm fascinated by accessibility, ensuring that everyone, regardless of their abilities, can navigate and interact with my creations. I believe that technology should be inclusive and provide positive experiences for everyone. 
+I am fascinated by **automation** of all kinds. Whether it is building bots, scripts and also projects with Arduino or home automation.
 
-I also venture into the world of automation with RPA, seeking to optimize processes and make life easier. After all, who doesn't like a little technological magic? 
+Currently, as a hobby, I have been researching hydroponics and I have become very interested.
 
-
-What drives me? 
-- The challenge of building solutions that make a difference;
-- The constant search for improvement and new technologies;
-- Teamwork and knowledge exchange;
-- The satisfaction of seeing my creations come to life and positively impacting people.
-
-Let's build something amazing together?
-
+---
+### What motivates me? 🚀
+- Build solutions that make a difference;
+- Constantly learn and explore new technologies;
+- Teamwork and knowledge sharing;
+- Create impactful and inclusive applications.
 <br>
-
-<style>
-div a {
-  padding: 0;
-}
-</style>
 
 <div align="flex-start" margin-bottom="40px" width="100%" display="flex" justify-content="center">
   <img alt="Git" height="25px" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
