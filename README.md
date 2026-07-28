@@ -1,14 +1,6 @@
 # Hello! 👋
 
-My name is **Ricardo Sousa**, a full-stack developer passionate about transforming ideas into innovative and accessible digital solutions.
-
-With over 6 years of experience in web development, I have immersed myself in the world of **TypeScript**, **JavaScript**, **Python**, **Java**. **Node.js**, **Nest.js**, **Next.js**, **React** are frameworks that I have the best performance with, but I am delving deeper into the Java ecosystem.
-
-I love creating intuitive and functional interfaces with Next.js and bringing the logic behind applications to life with Node.js or Nest.js.
-
-I am fascinated by **automation** of all kinds. Whether it is building bots, IA, scripts and also projects with Arduino or home automation.
-
-Currently, as a hobby, I have been researching hydroponics and I have become very interested.
+My name is **Ricardo Sousa**, a full-stack developer with over 6 years of experience in web development. I have immersed myself in the world of **TypeScript**, **JavaScript**, **Python**, **Java**. **Node.js**, **Nest.js**, **Next.js**, **React** are frameworks that I have the best performance with, but I am delving deeper into the Java ecosystem.
 
 ---
 ### What motivates me? 🚀
